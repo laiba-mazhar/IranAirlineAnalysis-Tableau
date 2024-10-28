@@ -5,7 +5,6 @@
 The Tehran Airlines dataset includes metrics on air quality and meteorological factors across multiple stations, with key indicators like PM2.5, CO, and NO2 levels, as well as temperature extremes, wind patterns, and aerosol optical depth measurements. This project uses Tableau's visualization tools to create engaging dashboards and an interactive story that brings forward critical trends and actionable insights.
 
 ## Dataset
-
 - **Data Source**: [Tehran Airlines Dataset](https://mega.nz/file/D6ZwSC6L#FLy998-On64t_TKFMiDorJxDrHtHrBS41r5rH0BfKU8)
 - **Data Description**: The dataset contains air quality and meteorological data across multiple stations with the following columns:
 
