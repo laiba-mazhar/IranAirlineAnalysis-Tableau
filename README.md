@@ -1,7 +1,5 @@
 # Iran Airlines Data Analysis with Tableau
 
-This repository presents an in-depth analysis of Tehran Airlines' air quality and weather data using Tableau. Through nine organized sheets, three interactive dashboards, and a comprehensive story, this project provides valuable insights into pollution trends, weather patterns, and data across various stations. The visualizations are designed to inform strategies for managing environmental and operational impacts.
-
 ## Project Overview
 
 The Tehran Airlines dataset includes metrics on air quality and meteorological factors across multiple stations, with key indicators like PM2.5, CO, and NO2 levels, as well as temperature extremes, wind patterns, and aerosol optical depth measurements. This project uses Tableau's visualization tools to create engaging dashboards and an interactive story that brings forward critical trends and actionable insights.
