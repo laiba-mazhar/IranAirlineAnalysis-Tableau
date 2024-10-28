@@ -1,4 +1,4 @@
-# Tehran Airlines Data Analysis with Tableau
+# Iran Airlines Data Analysis with Tableau
 
 This repository presents an in-depth analysis of Tehran Airlines' air quality and weather data using Tableau. Through nine organized sheets, three interactive dashboards, and a comprehensive story, this project provides valuable insights into pollution trends, weather patterns, and data across various stations. The visualizations are designed to inform strategies for managing environmental and operational impacts.
 
@@ -99,7 +99,7 @@ The story contains three dashboards, each emphasizing distinct aspects of the da
 
 ## Files
 
-- **`TehranAirlinesAnalysis.twb`**: The Tableau workbook with all sheets, dashboards, and story.
+- **`IranAirlinesAnalysis.twb`**: The Tableau workbook with all sheets, dashboards, and story.
 - **`Report.pdf`**: A report summarizing key insights, findings, and recommendations.
 
 ## Contact
